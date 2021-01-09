@@ -1,3 +1,5 @@
+/*This is my original, finalized JS for the ChoreDoor project. While this code works, I intend to challenge myself and return to this to clean it up and make it more user friendly and legible, as I created this by following the given steps very closely which resulted in somewhat messy code.*/
+
 let doorImage1
 = document.getElementById('door1');
 
